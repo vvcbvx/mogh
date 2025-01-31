@@ -1,0 +1,74 @@
+body{
+background: linear-gradient(to right,#53A8B99E,#53B9799E); 
+}
+#kla{
+  border-radius: 50px; 
+  position: absolute;
+  top: 93px;
+  left: 47px;
+  background: #FCFCFC;
+  width: 270px;
+  height: 490px;
+}
+#sora{
+    border-radius: 50px; 
+  width: 235px;
+  height: 150px;
+  position: absolute;
+  top: 10px;
+  left: 20px;
+}
+#vf{
+  width: 160px;
+  color: #3E3E3E;
+  font-size: 10px; 
+  position: absolute;
+  top: 389px;
+  left: 65px;
+} 
+#enter{
+  color: #FFFFFF;
+  background: #34C7E1;
+  position: absolute;
+  top: 360px;
+  left: 47px;
+  border-radius: 100px; 
+     border: none; 
+      outline: none;
+      width: 180px;
+      height: 34px;
+}
+#mk{
+  font: 15px;
+  width: 200px;
+  position: absolute;
+  left: 50px;
+  top: 170px;
+}
+#jop{
+  height: 60px;
+  width: 270px;
+  position: absolute;
+  top: 258px;
+   
+}
+#ti{
+  height: 60px;
+  width: 80px;
+  position: absolute;
+  
+  }
+  
+#pol{
+   height: 60px;
+  width: 270px;
+  position: absolute;
+  top: 258px;
+ 
+}
+#kiu{
+  height: 60px;
+  width: 80px;
+  position: absolute;
+}
+
